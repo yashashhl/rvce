@@ -13,6 +13,10 @@ const kMessageTextFieldDecoration = InputDecoration(
 );
 
 const kMessageContainerDecoration = BoxDecoration(
+
+
+
+  
   border: Border(
     top: BorderSide(color: Color.fromRGBO(25, 84, 164, 1.0), width: 2.0),
   ),
